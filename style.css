@@ -1,0 +1,6 @@
+body{
+    background-image: linear-gradient(to bottom,rgb(255, 136, 0),white,rgb(7, 87, 7));
+}
+div h1{
+    margin-left: 35vw;
+}
